@@ -44,9 +44,6 @@ Review Results: If events are found, they will be exported to the specified CSV 
 
 
 
-![image](https://github.com/user-attachments/assets/c607861c-bf15-45e3-98ad-8cd0bee35fe2)
-
-
 
 
 
